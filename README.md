@@ -1,4 +1,4 @@
-## Benchmark Setup
+## Label-equivalence-based 3D grain segmentation algorithm benchmark with DREAM3D
 
 For benchmarking, DREAM3D-6.5.168 should be installed in the following directory:
 
